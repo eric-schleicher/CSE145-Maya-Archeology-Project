@@ -1,4 +1,4 @@
-# CSE145-Mayan-Archeology-Project
+# CSE145-Maya-Archeology-Project
 This repo contains the documentation as well as source code for the Spring 2017 Maya Archeology Project devices.
 
 
